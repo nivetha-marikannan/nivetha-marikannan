@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nivetha 👋
 
-<!--
-**nivetha-marikannan/nivetha-marikannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Data Science @ Kumaraguru College of Technology — CGPA 8.92
+💻 Full-stack Developer @ iQube — building production platforms used by thousands of students
+🤖 Working across AI/ML, Computer Vision, LLMs, RAG, and autonomous systems
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+**Languages:** Python · Java · C/C++ · JavaScript
+**Backend:** Django · Flask · FastAPI · REST APIs
+**AI/ML:** Machine Learning · Deep Learning · Transformers · LLMs · RAG · Computer Vision · Hugging Face · OpenAI APIs · MCP
+**Databases:** PostgreSQL · MySQL · MongoDB · Supabase · Vector DBs
+**Tools:** Git · Docker · Redis · Postman · Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Work
+- **Kash** — blockchain-backed FinTech platform serving 3,000+ students · [Live](https://kash.kct.ac.in)
+- **Yugam** — fest management platform for 12,000+ users across 150+ events
+- **VaanThoothu** — autonomous disaster-response UAV · 🏆 National Rank 3
+- **Instify** — full-stack Instagram clone (Django + React)
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/nivetha-marikannan-b3849b290) · rmkannan2005@gmail.com
