@@ -61,3 +61,11 @@ Alongside backend engineering, I work across **AI/ML** — Computer Vision and L
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nivetha-marikannan-b3849b290)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmkannan2005@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Nivetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivetha-marikannan&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivetha-marikannan&layout=compact&theme=tokyonight)
