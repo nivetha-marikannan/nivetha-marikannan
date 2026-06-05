@@ -8,22 +8,6 @@ Alongside backend engineering, I work across **AI/ML** — Computer Vision and L
 
 ---
 
-## 🚀 Main Projects
-
-### 💰 Kash — Blockchain-Backed FinTech Platform
-A campus FinTech platform serving **3,000+ students**, eliminating **100% of manual cash handling** and reducing auditing effort by **~75%** through immutable, blockchain-backed transaction logs and automated reporting. Improved platform reliability by optimizing backend workflows and enabling real-time financial insights.
-
-**Tech:** **Django** · **PostgreSQL** · **REST APIs** · **Docker** · **Git/GitHub**
-
-🔗 **Live:** [kash.kct.ac.in](https://kash.kct.ac.in)
-
-### 🎪 Yugam — College Fest Management Platform
-A platform built and scaled for **12,000+ users across 150+ events**, processing **10,982 Razorpay transactions**. Engineered **Proshow seat selection** across 9 shows and 1,000+ seats with bulk booking and real-time availability, built an **Angadi POS** supporting 50+ vendors with inventory tracking, and led a **PayU → Razorpay migration** that saved **₹2,00,000** with a **40% performance improvement** through PostgreSQL optimization and Redis caching.
-
-**Tech:** **Django** · **PostgreSQL** · **Redis** · **Docker** · **Razorpay**
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
